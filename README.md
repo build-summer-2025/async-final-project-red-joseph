@@ -4,7 +4,7 @@
 ## Dataset
 Nba Stats (1947-Present)( https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats)
 
-## Why did I chose this dataset?
+## Why did I choose this dataset?
 
 Originally I wanted to do a Lebron and MJ GOAT debate but I have now decided to go with a top 5 greatest players list. I chose this dataset because it contains complete NBA, ABA, and BAA statistics from 1947 to the present, offering both traditional and advanced metrics for players and teams. With this dataset which has so much information I am able to analyze and compare the players to give the best data driven top 5 GOAT list. 
 
