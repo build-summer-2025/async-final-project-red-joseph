@@ -17,42 +17,42 @@ Originally I wanted to do a Lebron and MJ GOAT debate but I have now decided to 
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: [Brief description of the task]
+- [ ] Question 1: Which players have the highest total career points?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
-- [ ] Question 2: [Brief description of the task]
+- [ ] Question 2: Who are the top 5 players in total career rebounds?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
-- [ ] Question 3: [Brief description of the task]
+- [ ] Question 3: Which players have the highest total career assists?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
 
-- [ ] Question 4: [Brief description of the task]
+- [ ] Question 4: What are the top 5 players in career Win Shares (WS) based on the advanced stats file?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
 
-- [ ] Question 5: [Brief description of the task]
+- [ ] Question 5: Who has the highest average Player Efficiency Rating (PER) over their career?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
-- [ ] Question 6: [Brief description of the task]
+- [ ] Question 6: Which players have the highest True Shooting Percentage (TS%) over their career?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
 
-- [ ] Question 7: [Brief description of the task]
+- [ ] Question 7: Which players have the best career Box Plus/Minus (BPM)?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
 
-- [ ] Question 8: [Brief description of the task]
+- [ ] Question 8: Who are the top 5 players in career games played, and how many seasons did they play?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
 
-- [ ] Question 9: [Brief description of the task]
+- [ ] Question 9: Which players have the highest Win Shares Per 48 Minutes (WS/48)?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
 
-- [ ] Question 10: [Brief description of the task]
+- [ ] Question 10: Is there a correlation between career points and career Win Shares among top players?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
