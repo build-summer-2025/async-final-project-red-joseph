@@ -54,5 +54,5 @@ Originally I wanted to do a Lebron and MJ GOAT debate but I have now decided to 
   - Visualization: ![Q9 Visualization](https://i.postimg.cc/rFfLc54y/Question-9.png)
 
 - [ ] Question 10: Is there a correlation between career points and career Win Shares among top players?
-  - Answer: [Correlation between career points and career win shares: 0.892. Since 0.892 is very close to +1, which means players who score more career points also tend to accumulate more career win shares the relationship is very strong and positive. Ofcourse there are exceptions so it's not exactly 1.]
+  - Answer: [Correlation between career points and career win shares: 0.892. Since 0.892 is very close to +1, which means players who score more career points also tend to accumulate more career win shares the relationship is very strong and positive. Of course there are exceptions so it's not exactly 1.]
   - Visualization: ![Q10 Visualization](https://i.postimg.cc/K84hY47P/Question-10.png)
