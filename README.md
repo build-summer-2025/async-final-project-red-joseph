@@ -14,7 +14,7 @@ Originally I wanted to do a Lebron and MJ GOAT debate but I have now decided to 
 - [/] Defined 10 questions
 - [/] Answered 10 questions using Pandas
 - [/] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
-- [ ] Prepared presentation slides to present at graduation
+- [/] Prepared presentation slides to present at graduation
 
 ## Questions
 - [ ] Question 1: Which players have the highest total career points?
